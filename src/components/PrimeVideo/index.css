@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.primevideo-image {
+  width: 100%;
+}
+.primevideo-container {
+  background-color: #000000;
+}
+.action-video-container {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+.actionMovie-heading {
+  color: #ffffff;
+  font-family: Roboto;
+  font-weight: bold;
+}
+.comedy-container {
+  margin-top: 20px;
+}
+.comedy-image{
+  width:220px;
+}

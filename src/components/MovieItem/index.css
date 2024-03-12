@@ -1,0 +1,23 @@
+.action-image {
+  width: 220px;
+}
+.video-container {
+  padding: 40px;
+  width: 100%;
+}
+.video-popup-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.popup-content {
+  background-color: #ffffff;
+  width: 750px;
+  height: 460px;
+  border-radius: 16px;
+}
+.cross-icon {
+  align-self: flex-end;
+}
